@@ -6,7 +6,7 @@ This repository contains a structured front-end development roadmap designed to 
 
 The main learning plan is stored in:
 
-- [Season plan.md](./Season%20plan.md)
+- [Season plan.md](./Frontend/Frontend-Roadmap)
 
 ## Purpose
 
