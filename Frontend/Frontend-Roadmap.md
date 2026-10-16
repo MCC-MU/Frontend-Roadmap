@@ -310,43 +310,9 @@
 - JavaScript Function Testing
 - Test Scenarios
 
-## 🟢 Stage 15 – Vue.js
+## 💻 Stage 15 – Command Line
 
 ### Week 22
-
-- Vue Introduction
-- Vue Application
-- Templates
-- Data
-- Methods
-- Directives
-- Conditional Rendering
-- Lists
-- Events
-
-### Week 23
-
-- Components
-- Props
-- Events
-- Forms
-- Computed Properties
-- Watchers
-- Component Communication
-- API Integration
-
-### Week 24
-
-- Vue Applications
-- Components
-- API Integration
-- Data Handling
-- Responsive UI
-- Vue Project
-
-## 💻 Stage 16 – Command Line
-
-### Week 25
 
 - Command Line Introduction
 - Directories
