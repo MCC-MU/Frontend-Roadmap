@@ -47,7 +47,7 @@ The roadmap includes:
 - Weeks 5–10: JavaScript, logic, and DOM-based website development
 - Weeks 11–13: Responsive design and UI frameworks
 - Weeks 14–20: React and Next.js development
-- Weeks 21–25: Testing, Vue, and command-line skills
+- Weeks 21–22: Testing and command-line skills
 
 ## Outcome
 
